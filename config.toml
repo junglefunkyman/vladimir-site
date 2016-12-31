@@ -39,41 +39,41 @@ googleAnalytics = ""
 
 
 	# Hero section
-	[params.hero]
+	#[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "БЭСТ - наше все"
-		subtitle   = "На этом сайте представлены материалы для людей, ищущих внутреннюю гармонию, стремящихся понять смысл такого явления, как душа человека. Правильно было бы отнести эти материалы к духовной психологии. Однако, слово «психология» у нас связано с разговорной терапией и решением личностных, социальных и других проблем, поддающихся анализу."
+		#slogan     = "Построй бизнесс на новом уровне"
+		#subtitle   = "Метод предоставляет руководителю познание сути собственной личности, структурирование предприятия и позитивное влияние тонких энергий на бизнесс."
 
 
 	# About section
-	[params.about]
-		headline    = "We've got what you need!"
-		description = "Для понимания какое место новый метод занимает в сравнении с наукой будем предельно краткими и рассмотрим человека, как единство ума, тела и души. Если для ума важен успех (это сфера психологии), а для тела важны здоровье и свобода движений (сфера медицины, целительства), то для души важно обретение счастья. Поскольку наука не создала инструмента исследования души человека, то душа до сих пор остаётся неразгаданной тайной."
+	#[params.about]
+	#	headline    = "We've got what you need!"
+	#	description = "Для понимания какое место новый метод занимает в сравнении с наукой будем предельно краткими и рассмотрим человека, как единство ума, тела и души. Если для ума важен успех (это сфера психологии), а для тела важны здоровье и свобода движений (сфера медицины, целительства), то для души важно обретение счастья. Поскольку наука не создала инструмента исследования души человека, то душа до сих пор остаётся неразгаданной тайной."
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Постройте бизнесс на новом уровне"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+          title = "Психопунктура"
+          description = "Метод предоставляет руководителю познание сути собственной личности, структурирование предприятия и позитивное влияние тонких энергий на бизнесс."
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+          title = "За 5 минут"
+          description = "можно выявить структуру личности и привлечь для целей бизнеса необходимые силы, средства, обстоятельства и многое другое."
 
-		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+		    [[params.services.list]]
+          title = "Индивидуально"
+          description = "У метода нет общих рецептов - только индивидуальное решение задач."
 
         [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+          title = "Еще преимущество"
+          description = "У метода нет общих рецептов - только индивидуальное решение задач."
+
+        [[params.services.list]]
+          title = "Еще преимущество 2"
+          description = "У метода нет общих рецептов - только индивидуальное решение задач."
 
 
     # Portfolio modals
@@ -93,8 +93,8 @@ googleAnalytics = ""
 
 	# Contact section
 	[params.contact]
-		headline = "Контакты"
-		description = "Если вы готовы, свяжитесь с нами"
+		headline = "Оставить заявку"
+		description = "Для записи на консультацию, воспользуйтесь нашими контактами"
 		phone = "+7(921)314-95-58"
 		email = "volrusivkin@mail.ru"
 
