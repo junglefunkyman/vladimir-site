@@ -53,7 +53,7 @@ googleAnalytics = ""
 
 	# Service section
 	[params.services]
-		headline = "Постройте бизнесс на новом уровне"
+		headline = "Постройте бизнес на новом уровне"
 
         [[params.services.list]]
           title = "Психопунктура"

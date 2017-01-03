@@ -11,7 +11,7 @@
 
   function updateManHeight() {
     var h = $('#services').outerHeight();
-    $('.man').height(h);
+    $('.man').height(h - 100);
   }
 
   function updateGraphPosition() {
